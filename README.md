@@ -1,8 +1,6 @@
  
-Sure! Here’s a concise description for your GitHub project:
-
 Rock-Paper-Scissors Game
-Overview
+
 This project is a simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. Players can choose between rock, paper, or scissors, and the game randomly generates the computer's choice. The game calculates and displays the player's score based on the outcome of each round.
 
 Features
